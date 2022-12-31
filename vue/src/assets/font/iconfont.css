@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2919037 */
+  src: url('iconfont.woff2?t=1636168761726') format('woff2'),
+       url('iconfont.woff?t=1636168761726') format('woff'),
+       url('iconfont.ttf?t=1636168761726') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dantupailie:before {
+  content: "\e600";
+}
+
+.icon-dasuolvetuliebiao:before {
+  content: "\e601";
+}
+
+.icon-liebiaoyedizhi:before {
+  content: "\e65d";
+}
+
+.icon-liebiao:before {
+  content: "\ec6b";
+}
+
+.icon-liebiaomoshi_kuai:before {
+  content: "\ec7e";
+}
+
